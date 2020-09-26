@@ -17,4 +17,4 @@
 # お問い合わせ
 ご不明な点がございましたら 下記フォームよりお問い合わせください。
 
-[https://forms.gle/g1aLDtWiv6gWGfX66:title]
+[レシピストック お問い合わせフォーム](https://forms.gle/g1aLDtWiv6gWGfX66)
